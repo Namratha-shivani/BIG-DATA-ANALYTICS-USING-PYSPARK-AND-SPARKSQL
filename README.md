@@ -1,7 +1,7 @@
 # pySpark-sparkSQL
 Using pyspark and sparkSQL to answer different analytical questions from the data 
 
-<u>**Project 1**.</u> Index a set of documents and build a function to search through these documents using the index.
+<u>Project 1.</u> Index a set of documents and build a function to search through these documents using the index.
 
 <u>**Project 2**.</u>  Read the data (all the files in the ‘data’ directory) using the function textFile. Take only the “text” part of each article and count the frequency of all the words (convert the text into lowercase). Remove (Filter) any word whose frequency is less than 10.
 
