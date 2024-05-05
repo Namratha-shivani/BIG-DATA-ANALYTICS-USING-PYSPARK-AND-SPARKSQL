@@ -39,7 +39,7 @@ f. Divide the data into 10 parts: 10%, 20%, …, 100%
 
 g. Plot the time taken by each method.             
 
-## Project 6 
+## Project 4 
 a directed graph with 25 nodes (node 1 to node 25) Read and store the data as an adjacency list.
 
 a. Find all self-loops (i.e. edge between a node onto itself)
