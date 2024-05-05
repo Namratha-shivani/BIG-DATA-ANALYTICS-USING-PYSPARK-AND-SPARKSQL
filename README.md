@@ -18,7 +18,8 @@ Project 3. build a model to predict taxi fare from trip distance and a model to 
 
 
 
-> What is the fare of a 20-mile-long trip using M1
+> What is the fare of a 20-mile-long trip using M1.
+
 > What is the fare of a 14-mile trip that took 75 minutes using M2
 > Which fare is higher 10 mile trip taking 40 min or 13 mile trip taking 25 min?
 
