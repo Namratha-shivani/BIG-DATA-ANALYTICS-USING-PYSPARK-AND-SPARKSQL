@@ -1,9 +1,9 @@
 # pySpark-sparkSQL
 Using pyspark and sparkSQL to answer different analytical questions from the data 
 
-<u>Project 1.</u> Index a set of documents and build a function to search through these documents using the index.
+**Project 1**. Index a set of documents and build a function to search through these documents using the index.
 
-<u>**Project 2**.</u>  Read the data (all the files in the ‘data’ directory) using the function textFile. Take only the “text” part of each article and count the frequency of all the words (convert the text into lowercase). Remove (Filter) any word whose frequency is less than 10.
+**Project 2**. Read the data (all the files in the ‘data’ directory) using the function textFile. Take only the “text” part of each article and count the frequency of all the words (convert the text into lowercase). Remove (Filter) any word whose frequency is less than 10.
 
 Report the following:
 
@@ -18,7 +18,7 @@ d. The list of words appeared on ‘2012-09-01’ but not on ‘2012-08-01’.
 e. Frequency of the word ‘monsoon’ for all months.
 
 
-<u>**Project 3**.</u> build a model to predict taxi fare from trip distance and a model to predict taxi fare from trip distance and trip duration in minutes.
+**Project 3**. build a model to predict taxi fare from trip distance and a model to predict taxi fare from trip distance and trip duration in minutes.
 
 a. What is the fare of a 20-mile-long trip using M1.                                
 
