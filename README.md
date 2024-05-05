@@ -41,12 +41,35 @@ g. Plot the time taken by each method.
 
 ## Project 4
 
-Compute incoming edges 
+The following file contains information about permits issued to export wildlife items/products. wildlife_trade.csv Use SparkSQL and other Spark utilities to answer the following question
 
-a. Output sorted (based on the node id) list of incoming edges
+a. what is the most frequent Class of animal traded
 
-b. Show only the nodes who has exactly 5 incoming edges
+b. List all the items (Term) traded that are associated with Mammals
 
-c. show the incoming edges of the node ‘1’
+c. List all CITES Appendix II species
+
+d .What is the most common animal (Taxon) traded in 2017?
+
+e. List all the Classes of animals where the following items are traded
+
+i) teeth
+
+ii) live
+
+ii) carvings
+
+## Project 5 
+a directed graph with 25 nodes (node 1 to node 25) Read and store the data as an adjacency list.
+
+a. Find all self-loops (i.e. edge between a node onto itself)
+
+b. Node with the largest out-degree
+
+c .Node with the larges in-degree
+
+d. Find the distribution of vertices in-degrees
+
+e. Find a path between node 1 to node 9 
 
 
