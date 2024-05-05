@@ -39,5 +39,14 @@ f. Divide the data into 10 parts: 10%, 20%, …, 100%
 
 g. Plot the time taken by each method.             
 
+## Project 4
+
+Compute incoming edges 
+
+a. Output sorted (based on the node id) list of incoming edges
+
+b. Show only the nodes who has exactly 5 incoming edges
+
+c. show the incoming edges of the node ‘1’
 
 
