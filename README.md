@@ -39,7 +39,20 @@ f. Divide the data into 10 parts: 10%, 20%, …, 100%
 
 g. Plot the time taken by each method.             
 
-## Project 4
+## Project 6 
+a directed graph with 25 nodes (node 1 to node 25) Read and store the data as an adjacency list.
+
+a. Find all self-loops (i.e. edge between a node onto itself)
+
+b. Node with the largest out-degree
+
+c .Node with the larges in-degree
+
+d. Find the distribution of vertices in-degrees
+
+e. Find a path between node 1 to node 9 
+
+## Project 5
 
 The following file contains information about permits issued to export wildlife items/products. wildlife_trade.csv Use SparkSQL and other Spark utilities to answer the following question
 
@@ -58,18 +71,3 @@ i) teeth
 ii) live
 
 ii) carvings
-
-## Project 5 
-a directed graph with 25 nodes (node 1 to node 25) Read and store the data as an adjacency list.
-
-a. Find all self-loops (i.e. edge between a node onto itself)
-
-b. Node with the largest out-degree
-
-c .Node with the larges in-degree
-
-d. Find the distribution of vertices in-degrees
-
-e. Find a path between node 1 to node 9 
-
-
