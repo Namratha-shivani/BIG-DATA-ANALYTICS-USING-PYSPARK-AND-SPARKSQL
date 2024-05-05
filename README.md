@@ -16,12 +16,19 @@ Frequency of the word ‘monsoon’ for all months.
 
 Project 3. build a model to predict taxi fare from trip distance and a model to predict taxi fare from trip distance and trip duration in minutes.
 
-a. What is the fare of a 20-mile-long trip using M1.
-b. What is the fare of a 14-mile trip that took 75 minutes using M2
-c. Which fare is higher 10 mile trip taking 40 min or 13 mile trip taking 25 min?
-d. compute the average tip amount
-e. During which hour the city experiences the most number of trips? E.g. 10 am-11 am or 4 pm-5 pm
-f. Divide the data into 10 parts: 10%, 20%, …, 100%
-g. Plot the time taken by each method.
+a. What is the fare of a 20-mile-long trip using M1.                                
+
+b. What is the fare of a 14-mile trip that took 75 minutes using M2                   
+
+c. Which fare is higher 10 mile trip taking 40 min or 13 mile trip taking 25 min?               
+
+d. compute the average tip amount               
+
+e. During which hour the city experiences the most number of trips? E.g. 10 am-11 am or 4 pm-5 pm               
+
+f. Divide the data into 10 parts: 10%, 20%, …, 100%           
+
+g. Plot the time taken by each method.             
+
 
 
