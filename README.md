@@ -1,7 +1,7 @@
 # pySpark-sparkSQL
 Using pyspark and sparkSQL to answer different analytical questions from the data 
 
-## Project 1. 
+## Project 1
 
 Index a set of documents and build a function to search through these documents using the index.
 
@@ -21,7 +21,7 @@ d. The list of words appeared on ‘2012-09-01’ but not on ‘2012-08-01’.
 e. Frequency of the word ‘monsoon’ for all months.
 
 
-## Project 3.
+## Project 3
 
 build a model to predict taxi fare from trip distance and a model to predict taxi fare from trip distance and trip duration in minutes.
 
