@@ -3,18 +3,22 @@ Using pyspark and sparkSQL to answer different analytical questions from the dat
 
 Project 1. Index a set of documents and build a function to search through these documents using the index.
 
-Project 2.  Read the data (all the files in the ‘data’ directory) using the function textFile. Take only the “text” part of each article and count the frequency of all the words (convert the text into lowercase). Remove (Filter) any word whose frequency is less than 10.
+**Project 2**.  Read the data (all the files in the ‘data’ directory) using the function textFile. Take only the “text” part of each article and count the frequency of all the words (convert the text into lowercase). Remove (Filter) any word whose frequency is less than 10.
 
 Report the following:
 
-Total size of the output data (after the filtering).
-Frequency of the following words – congress, London, Washington, football.
-The word with maximum frequency for each month (hint: to read only a month’s articles you can use ‘’. E.g. for February ‘2012-02’ represents all files starting with 2012-02,i.e. files belonging to Feb).
-The list of words appeared on ‘2012-09-01’ but not on ‘2012-08-01’.
-Frequency of the word ‘monsoon’ for all months.
+a. Total size of the output data (after the filtering).                    
+
+b. Frequency of the following words – congress, London, Washington, football.                 
+
+c. The word with maximum frequency for each month (hint: to read only a month’s articles you can use ‘’. E.g. for February ‘2012-02’ represents all files starting with 2012-02,i.e. files belonging to Feb).           
+
+d. The list of words appeared on ‘2012-09-01’ but not on ‘2012-08-01’.            
+
+e. Frequency of the word ‘monsoon’ for all months.
 
 
-Project 3. build a model to predict taxi fare from trip distance and a model to predict taxi fare from trip distance and trip duration in minutes.
+**Project 3**. build a model to predict taxi fare from trip distance and a model to predict taxi fare from trip distance and trip duration in minutes.
 
 a. What is the fare of a 20-mile-long trip using M1.                                
 
